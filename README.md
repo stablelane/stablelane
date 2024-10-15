@@ -7,7 +7,7 @@
 
 ### About Me
 
-- 🎓 **Computer Science Graduate** with a passion for web development
+- 🎓 **Computer Science Graduate** with a passion for about figuring out how things work behind the scenes
 - 💡 Learning modern web technologies like **React**, **Node.js**, and **Go**
 - 🔍 Expanding my knowledge in **cybersecurity** and practical coding skills
 - 💼 Actively seeking opportunities to grow in the tech industry
