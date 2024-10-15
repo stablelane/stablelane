@@ -1,4 +1,23 @@
-## Hi there 👋
+## Hi there 👋I'm Anshad Abdusamad
+
+🌐 Full Stack Developer in Training | Tech Enthusiast  
+🚀 Coding in JavaScript, exploring Node.js, React, and Go
+
+---
+
+### About Me
+
+- 🎓 **Computer Science Graduate** with a passion for web development
+- 💡 Learning modern web technologies like **React**, **Node.js**, and **Go**
+- 🔍 Expanding my knowledge in **cybersecurity** and practical coding skills
+- 💼 Actively seeking opportunities to grow in the tech industry
+
+
+
+### 📫 Get in Touch
+
+[LinkedIn](https://www.linkedin.com/in/anshad-abdusamad-3b5220125/) • 
+
 
 <!--
 **stablelane/stablelane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
