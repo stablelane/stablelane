@@ -1,4 +1,4 @@
-Hi there 👋 I'm Anshad Abdusamad
+Hi there 👋 I'm Anshad
 
 - 💻 I build anything with software — from full-stack apps to AI pipelines.
 - 🚀 Always exploring, breaking, and building better systems.
