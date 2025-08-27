@@ -1,17 +1,8 @@
-## Hi there 👋 I'm Anshad Abdusamad
+Hi there 👋 I'm Anshad Abdusamad
 
-🌐 Full Stack Developer in Training | Tech Enthusiast  
-🚀 Coding in JavaScript, exploring Node.js, React, and Go
-
----
-
-### About Me
-
-- 🎓 **Computer Science Graduate** with a passion for about figuring out how things work behind the scenes
-- 💡 Learning modern web technologies like **React**, **Node.js**, and **Go**
-- 🔍 Expanding my knowledge in **cybersecurity** and practical coding skills
-- 💼 Actively seeking opportunities to grow in the tech industry
-
+- 💻 I build anything with software — from full-stack apps to AI pipelines.
+- 🚀 Always exploring, breaking, and building better systems.
+- 🌍 Open Source Contribution [Raggenie](https://github.com/OnepaneAI/raggenie) 
 
 
 ### 📫 Get in Touch
